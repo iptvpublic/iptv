@@ -1,6 +1,10 @@
 # iptv
 iptv curadoria 
 
+https://iptvpublic.github.io/iptv/iptvlist.m3u
+
+https://iptvpublic.github.io/iptv/iptvradios.m3u
+
 
 
 
