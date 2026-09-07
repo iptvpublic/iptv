@@ -6,6 +6,11 @@ https://iptvpublic.github.io/iptv/iptvlist.m3u
 https://iptvpublic.github.io/iptv/iptvradios.m3u
 
 
+[![TV](https://img.shields.io/badge/TV-Playlist%20.m3u-blue?style=for-the-badge)](https://iptvpublic.github.io/iptv/iptvlist.m3u)
+
+[![Radio](https://img.shields.io/badge/Radio-Playlist%20.m3u-green?style=for-the-badge)](https://iptvpublic.github.io/iptv/iptvradios.m3u)
+
+
 
 
 ### 🇧🇷 1. Brasil (Top 20 Mais Assistidas)
