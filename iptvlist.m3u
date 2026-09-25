@@ -5,7 +5,7 @@
 # BRASIL (CANAIS MAIS ASSISTIDOS - 39)
 # ==========================================
 
-#EXTINF:-1 tvg-id="TVGlobo.br@RioDeJaneiro" tvg-name="TV Globo Rio de Janeiro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TV_Globo_2021.svg/960px-TV_Globo_2021.svg.png" group-title="Brasil" tvg-country="BR",TV Globo Rio de Janeiro
+#EXTINF:-1 tvg-id="TVGlobo.br@morena" tvg-name="TV Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TV_Globo_2021.svg/960px-TV_Globo_2021.svg.png" group-title="Brasil" tvg-country="BR",TV Globo Rio de Janeiro
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-id="SBT.br@Nacional" tvg-name="SBT Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SBT_logo.svg/960px-SBT_logo.svg.png" group-title="Brasil" tvg-country="BR",SBT Nacional
 https://media.cdntvms.com.br/sbt_sat/index.m3u8
